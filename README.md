@@ -2,6 +2,7 @@
 Web Site Navigation for Designers and Programmers
 米设MUXD全能设计导航(MUXD_WebStask)
 ======================================================================================
+##Demo https://zakarygates.github.io/MUXDWebStack.github.io/
 
                                             发行版(开源版) 开源和使用许可协议 CN
 ======================================================================================
@@ -11,13 +12,13 @@ Web Site Navigation for Designers and Programmers
             本协议是米设(Meser)MUXD用户体验设计团队 以下简称 Meser与您之间达成的协议。请阅读条款内容。
 概念解释
             米设MUXD全能设计导航(MUXD_WebStask)，是Meser基于原站点开发者Viggoz[http://viggoz.com/]  
+            
 提供的[WebStask https://github.com/WebStackPage/WebStackPage.github.io ]导航站源码
 
 进行再次开发含（美化、少量框架改动、新增启动动画等），为设计师们提供免费的生产力导航站点（以下简称本站）。
 
-##Demo https://zakarygates.github.io/MUXDWebStack.github.io/
-
 一、知识产权及使用授权
+
 1.1 您可以自由下载、使用、分发本站点而不需要向Meser付费。
 
 1.2 您使用本站的开源代码及输出物，包括但不限于html、图片、js脚本、css样式、字体文件、音频、视频、
