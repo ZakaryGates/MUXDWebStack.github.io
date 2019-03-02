@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1040 1040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="208px" height="208px">
+	<defs>
+		<style type="text/css">
+		svg {
+		position: absolute;
+		}
+		svg path {
+		stroke: #000000;		
+		fill: #000000;
+		fill-opacity: 0;
+		stroke-width: 8;
+		animation-name: draw;
+		-webkit-animation-name:draw ;
+		-moz-animation-name:draw ;
+		-ms-animation-name: draw;
+		-o-animation-name: draw;
+		
+		animation-fill-mode: forwards;
+		-webkit-animation-fill-mode: forwards;
+		-moz-animation-fill-mode: forwards;
+		-ms-animation-fill-mode: forwards;
+		-o-animation-fill-mode: forwards;
+		
+		animation-iteration-count: infinite;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		-ms-animation-iteration-count: infinite;
+		-o-animation-iteration-count: infinite;
+		
+		animation-timing-function: linear;
+		-webkit-animation-timing-function: linear;
+		-moz-animation-timing-function:linear ;
+		-ms-animation-timing-function: linear;
+		-o-animation-timing-function: linear;
+		}
+		svg path.muxd {
+		stroke-dasharray: 1024;
+		stroke-dashoffset: 1024;
+		animation-duration: 3s;
+		}
+		@keyframes draw {
+		    to {
+		        stroke-dashoffset: 0;
+                fill-opacity: 1;
+			}
+		}
+        @keyframes show {
+           to {
+               opacity: 1;
+               -webkit-opacity: 1;
+               -moz-opacity: 1;
+               -ms-opacity: 1;
+               -o-opacity: 1;
+			}
+		}
+		</style>
+	</defs>
+	<path class="muxd" d="M0.002048 0v520.706424s-2.354748 199.641669 152.34195 351.830049c0 0-54.619913 78.218582-152.34195 74.63527V1023.80343s126.337343 9.470182 207.217814-103.045815c0 0 122.856412 99.513693 302.892245 101.254159H1023.805478v-250.72946s-4.146404-226.618889-246.224725-247.094958h-251.497313v305.656514h81.494753V606.09163h168.262094s149.936012 0 166.470438 165.293064v168.927566H493.987203S359.971334 941.899155 247.762478 849.756847a248.425902 248.425902 0 0 0 15.971334-58.663937s44.279498-174.046583 233.785513-186.588175v-78.474533S317.739442 517.020732 212.338879 701.970822c0 0-25.236755 47.197338-28.308165 88.814947 0 0-97.875608-98.899411-102.738674-270.079345v-437.164064l152.546711 312.669567h90.299463s78.372153-226.87484 201.945226-298.59227v398.105964h258.612747S1008.448426 482.057845 1023.805478 246.890197V0h-81.494753v248.784233s-0.409521 149.424111-168.262094 165.293064h-166.470438V0H511.903763S358.69158 84.361403 271.002816 287.893524L131.100077 0z"/>
+</svg>
